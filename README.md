@@ -1,4 +1,4 @@
-# graphql
+# GraphQL Golang (go)
 
 go get `go get github.com/99designs/gqlgen`
 
